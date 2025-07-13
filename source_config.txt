@@ -1,2 +1,2 @@
 tmux source-file ~/.config/tmux/.tmux.conf
-
+# Pour que les couleurs fonctionnent, il faut sourcer le fichier de config avec cette commande
