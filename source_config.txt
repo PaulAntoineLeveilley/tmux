@@ -1,2 +1,7 @@
 tmux source-file ~/.config/tmux/.tmux.conf
+# Sourcer le fichier de configuration a l'extérieur de tmux si on veut que les couleurs fonctionnent
+# correctement
 # Pour que les couleurs fonctionnent, il faut sourcer le fichier de config avec cette commande
+# Autre petit point, faire attention a ne pas installer catpuccin via tmp mais plutot l'installer
+# manuellement. Aussi, ne pas oublier de runer le plugin catpuccin dans le fichier dans le fichier
+# .tmux.conf
